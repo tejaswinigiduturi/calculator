@@ -70,11 +70,11 @@
         }
 
         .equalBtn {
-            background: #fb7c14;
+            background: #e1b7e2;
         }
 
         .operator {
-            background: #d63d3d;
+            background: #e4aacc;
             color: #f6f6f6;
         }
     </style>
